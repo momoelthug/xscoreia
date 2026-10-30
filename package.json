@@ -1,0 +1,7 @@
+{
+  "name": "xscoreia",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "xScore IA — pronostics foot calculés par un modèle statistique, publiés sur GitHub Pages"
+}
